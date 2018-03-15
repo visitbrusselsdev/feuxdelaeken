@@ -571,6 +571,9 @@
               ".btn": {
                 "font-size": "20px !important"
               }
+            },
+            ".btn-social, .mbr-section-title ": {
+              "color": "#ffffff"
             }
           },
           "_name": "social-buttons1",
